@@ -95,7 +95,10 @@ quickbite-assessment/
 ├── analysis/
 │   └── Quick_Bite_Analysis.xlsx
 │
-└── README.md
+├── requirements.txt
+├── README.md
+└── .gitignore
+
 
 
 # 8. How to Run the Project
